@@ -16,5 +16,12 @@
         <module>business.02.dubbo</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.archear</groupId>
+            <artifactId>ccs.01.support</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
 
 </project>
