@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ccs.02.business/business.01.webService/business.01.webService.iml" filepath="$PROJECT_DIR$/ccs.02.business/business.01.webService/business.01.webService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs.02.business/business.02.dubbo/business.02.dubbo.iml" filepath="$PROJECT_DIR$/ccs.02.business/business.02.dubbo/business.02.dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ccs.iml" filepath="$PROJECT_DIR$/ccs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs.01.support/ccs.01.support.iml" filepath="$PROJECT_DIR$/ccs.01.support/ccs.01.support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs.02.business/ccs.02.business.iml" filepath="$PROJECT_DIR$/ccs.02.business/ccs.02.business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs.02.business/business.02.dubbo/dubbo.ctrl/dubbo.ctrl.iml" filepath="$PROJECT_DIR$/ccs.02.business/business.02.dubbo/dubbo.ctrl/dubbo.ctrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs.02.business/business.02.dubbo/dubbo.dao/dubbo.dao.iml" filepath="$PROJECT_DIR$/ccs.02.business/business.02.dubbo/dubbo.dao/dubbo.dao.iml" />
     </modules>
   </component>
 </project>

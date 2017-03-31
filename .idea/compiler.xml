@@ -6,11 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ccs" />
+        <module name="business.01.webService" />
+        <module name="ccs.01.support" />
+        <module name="dubbo.ctrl" />
+        <module name="dubbo.dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="business.01.webService" target="1.5" />
+      <module name="business.02.dubbo" target="1.5" />
       <module name="ccs" target="1.5" />
+      <module name="ccs.01.support" target="1.5" />
+      <module name="ccs.02.business" target="1.5" />
+      <module name="dubbo.ctrl" target="1.5" />
+      <module name="dubbo.dao" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,11 @@
+CHOOSE THE COURSE SYSTEM (CCS)应用介绍：
+
+ccs工程分为二层：
+1.依赖层(ccs.01.support)
+    .1常用jar包,框架
+2.业务层(ccs.02.business)
+    .1web服务(business.01.webService)
+
+    .2dubbo服务(business.02.dubbo)
+        ..1与数据库交互服务(dubbo.dao内网)
+        ..2与ctrl交互服务(dubbo.ctrl外网)
